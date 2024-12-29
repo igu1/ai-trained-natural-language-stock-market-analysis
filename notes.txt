@@ -1,0 +1,49 @@
+
+----- International Stock Market Predictions -----
+
+Error Metrics:
+Root Mean Square Error: $16.51
+Mean Absolute Percentage Error: 7.77%
+
+
+Error Metrics:
+Root Mean Square Error: $12.31
+Mean Absolute Percentage Error: 8.60%
+
+Error Metrics:
+Root Mean Square Error: $16.05
+Mean Absolute Percentage Error: 9.55%
+
+
+Error Metrics:
+Root Mean Square Error: $15.89
+Mean Absolute Percentage Error: 5.53%
+
+
+Error Metrics:
+Root Mean Square Error: $34.17
+Mean Absolute Percentage Error: 6.87%
+
+
+Error Metrics:
+Root Mean Square Error: $7.94
+Mean Absolute Percentage Error: 8.02%
+
+---Worse Predictions---
+
+Error Metrics:
+Root Mean Square Error: $58.56
+Mean Absolute Percentage Error: 486.78%
+
+Error Metrics:
+Root Mean Square Error: $15.37
+Mean Absolute Percentage Error: 31.76%
+
+Error Metrics:
+Root Mean Square Error: $83.55
+Mean Absolute Percentage Error: 25.25%
+
+
+Error Metrics:
+Root Mean Square Error: $85.16
+Mean Absolute Percentage Error: 24.05%
